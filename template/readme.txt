@@ -63,15 +63,16 @@ Stack
     |- SLLStack     
 Queue   
     |- ArrayQueue
-            |- RandomQueue
-            |- MaxQueue
+    |- RandomQueue
+    |- MaxQueue
     |- SLLQueue
     |- BinaryHeap
-List                            Dequeue
-    |- ArrayList                 |
-                |- ArrayDeque   -|
-    |- DLList                    |
-                |- DLLDeque     -|
+List
+    |-Dequeue
+    |- ArrayList               
+    |- ArrayDeque
+    |- DLList                    
+    |- DLLDeque     
 Set
     |- ChainedHashTable
     |- BinarySearchTree
